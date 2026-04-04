@@ -1,0 +1,20 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Datasets (Uncomment if dataset is too large, but for this project we'll allow small datasets to push)
+# dataset/
+
+# OS generated files
+.DS_Store
+Thumbs.db
